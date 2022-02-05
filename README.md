@@ -1,6 +1,6 @@
 # FinTech-Case-Study-Trulioo
-Unit 1, RegTech Domain
-# Fintech Case Study
+*Unit 1, RegTech Domain*
+
 
 ## Overview and Origin
 
