@@ -1,2 +1,2 @@
 # FinTech-Case-Study-Trulioo
-Unit 1 hw; Trulioo, RegTech Domain
+Unit 1, RegTech Domain
