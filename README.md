@@ -37,4 +37,4 @@
 
 * Trulioo has made a tremendous impact on the regtech industry to date. Two different years it has been ranked in the CNBC disruptor 50 list. Every year, CNBC releases a top 50 list of companies that disrupt their industry. A disruptor is defined as a company that changes the traditional way an industry operates, especially in a new and effective way. Trulioo has done this using their company’s mission of building trust, increasing privacy and inclusion to make sure no one is left behind and everyone participates fully in the modern digital economy. They have also served 5 billion people and 330 million businesses worldwide. 
 
-* 
+*  Hi i am liam 
