@@ -37,4 +37,34 @@
 
 * Trulioo has made a tremendous impact on the regtech industry to date. Two different years it has been ranked in the CNBC disruptor 50 list. Every year, CNBC releases a top 50 list of companies that disrupt their industry. A disruptor is defined as a company that changes the traditional way an industry operates, especially in a new and effective way. Trulioo has done this using their company’s mission of building trust, increasing privacy and inclusion to make sure no one is left behind and everyone participates fully in the modern digital economy. They have also served 5 billion people and 330 million businesses worldwide. 
 
-*  Hi i am liam 
+*  Some core metrics in the Regtech domain used to measure success are a company's ability to minimize costs, maximize customer acquisition, and position themselves to adapt to new market, technology and risk-prevention opportunities quickly. Based on these metrics, Trulioo has been performing very well. They have special offers and prices that are very attractive to customers for both business and personal use. They also receive constant positive reviews and continue to grow at an astounding rate. 
+
+*  Trulioo’s performance through recent years has been climbing steadily. As of the end of 2021, they were valued at over 2.0 billion dollars. This is an increase of 394 million dollars. Compared to their competitors, they are steadily climbing to be one of the biggest companies in ID verification. They have not reached enterprise level, but are among the top competitors in the middle market.
+
+
+##  Recommendations 
+
+
+*  Currently, Trulioo uses five different methods for ID document verification: drivers licenses, passports, identity cards, resident permits, and voter ID cards. If I were to advise the company, I would suggest the use of facial recognition. 
+
+*  One of their competitors, Jumio Identity Verification, offers facial recognition which uses an informed AI which incorporates large data sets. Using large data sets, intelligent tagging, and leveraging real world production data lowers the chance of introducing bias to their data. By using this at Trulioo, they could increase efficiency and more long term, lower costs. 
+
+*  This service would utilize AI/machine learning technologies. 
+
+*  Although Trulioo already helps more than 5 billion people worldwide, one complaint customers and businesses have is the pricing. Trulioo already offers the first 3 months free, but by utilizing machine learning/AI based technologies for facial recognition, they could increase customer satisfaction drastically. This also would improve the ease of access, because customers that have phones with front cameras can be verified immediately without having to even put their phone down. 
+
+# Sources: 
+
+* www.CNBC.com
+* www.worldbank.org 
+* www.trulioo.com
+* www.redhat.com 
+* www.stackshare.io 
+* www.google.com 
+* www.redhat.com 
+* www.tealium.com 
+* www.docker.com 
+* https://www2.deloitte.com/us/en.html 
+* www.g2.com 
+* www.voxsmart.com 
+* www.purestorage.com  
